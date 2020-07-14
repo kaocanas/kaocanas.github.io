@@ -1,0 +1,22 @@
+
+html, body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, img {
+    margin:0;
+    padding:10px;
+    border:0;
+    font-size: 100%;
+    font: inherit;
+}
+
+h1,h2 {
+    font-family: 'Amatic SC', cursive;
+	font-size: 300%;
+}	
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron{
+	background-image: url("../images/banner-1.jpg");
+	background-size: cover;
+}
